@@ -1,10 +1,14 @@
 ### Olá eu sou o Matheus Cunha 😸
 
--💻Estudando Javascript; 
--📌Em busca de um estágio; 
--📚Ciência da Computação/UTFPR 
--contate-me: matheucunha0@gmail.com
+- 💻 Estudando Javascript
 
+- 📌 Em busca de um estágio
+
+- 📚 Ciência da Computação/UTFPR 
+
+- contate-me: matheucunha0@gmail.com
+
+<br>
 <div align="center">
   <a href="https://github.com/MatheusCunha1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusCunha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
