@@ -1,11 +1,9 @@
 ### Olá eu sou o Matheus Cunha 😸
 
--Estudando Javascript 💻📚
--
--Em busca de um estágio 📌
--
--Ciência da Computação - UTFPR 
--
+-💻Estudando Javascript; 
+-📌Em busca de um estágio; 
+-📚Ciência da Computação/UTFPR 
+-contate-me: matheucunha0@gmail.com
 
 <div align="center">
   <a href="https://github.com/MatheusCunha1">
