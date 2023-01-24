@@ -2,8 +2,6 @@
 
 - 💻 Estudando Javascript
 
-- 📌 Em busca de um estágio
-
 - 📚 Ciência da Computação/UTFPR 
 
 - contate-me: matheucunha0@gmail.com
