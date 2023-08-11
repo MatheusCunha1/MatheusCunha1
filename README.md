@@ -1,6 +1,6 @@
 ### Olá eu sou o Matheus Cunha 😸
 
-- 💻 Estudando Javascript
+- 💻 Estudando Python
 
 - 📚 Ciência da Computação/UTFPR 
 
