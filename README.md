@@ -1,6 +1,6 @@
 ### Olá eu sou o Matheus Cunha 😸
 
-- 💻 Estudando Python
+- 💻 Estudando Python & C#
 
 - 📚 Ciência da Computação/UTFPR 
 
