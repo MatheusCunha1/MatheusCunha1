@@ -1,6 +1,3 @@
-### Olá! 👋 Eu sou Matheus Cunha, um entusiasta da tecnologia e programação, sempre em busca de desafios empolgantes.
-
-- 💻 Estudando Python & C#
 
 - 📚 Ciência da Computação/UTFPR 
 
