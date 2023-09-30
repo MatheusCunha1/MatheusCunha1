@@ -1,6 +1,9 @@
 # Matheus Cunha
-
 Estudante de Ciência da Computação na UTFPR | Back-End Developer Aspirante 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Matheus+Cunha..&hearts;++;+Back-End+Developer,;Computer+Science+Student"></a>
+</p>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Cunha-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cunha1/)](https://www.linkedin.com/in/matheus-cunha1/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheus.cunha@email.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheucunha0@gmail.com)](mailto:matheucunha0@gmail.com)
@@ -17,4 +20,3 @@ Fique à vontade para me seguir no [LinkedIn](https://www.linkedin.com/in/matheu
 <code><img height="30" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
 <code><img height="30" alt="SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 <code><img height="30" alt="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
-
