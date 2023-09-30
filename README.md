@@ -1,15 +1,22 @@
-## Olá! Eu sou o Matheus Cunha 🖐️
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheu_cunha1/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-cunha1/)
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+<a href="https://github.com/jstrieb/github-stats#gh-dark-mode-only">
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/jstrieb/github-stats#gh-light-mode-only">
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</a>
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusCunha1&show_icons=true&theme=dracula&count_private=true)
+</div>
 
-## Tecnologias que eu uso no meu dia
+---
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</div><br/>
+Scammers have been impersonating me. I will never send emails asking for
+cryptocurrency or offering to “hack” people. If you receive emails from people
+claiming to be me, [please forward them to
+me](https://jstrieb.github.io/about/#contact).
