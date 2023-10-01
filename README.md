@@ -13,7 +13,7 @@ Olá, sou Matheus Cunha, um estudante de Ciência da Computação na UTFPR, e es
 Fique à vontade para me seguir no [LinkedIn](https://www.linkedin.com/in/matheus-cunha1/) ou me enviar um e-mail em [matheucunha0@gmail.com](mailto:matheucunha0@gmail.com).
 
 <code><img height="30" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="30" alt="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
+<code><img height="30" alt="AWS" src="https://customcodefactory.com/wp-content/uploads/2019/12/aws-app-icon.jpg"></code>
 <code><img height="30" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="30" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="30" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
