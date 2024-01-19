@@ -2,13 +2,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Matheus+Cunha..&hearts;++;+Back-End+Developer,;Computer+Science+Student"></a>
 </p>
 
-Estudante de Ciência da Computação na UTFPR/MD | Back-End Developer Aspirante 
+Estudante de Ciência da Computação na UTFPR/MD 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Cunha-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cunha1/)](https://www.linkedin.com/in/matheus-cunha1/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheus.cunha@email.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheucunha0@gmail.com)](mailto:matheucunha0@gmail.com)
 
 
-Olá, sou Matheus Cunha, um estudante de Ciência da Computação na UTFPR, e estou focado em me tornar um desenvolvedor Back-End. Sou apaixonado por tecnologia e inovação.
+Olá, sou Matheus Cunha, um estudante de Ciência da Computação na UTFPR. Sou apaixonado por tecnologia e inovação.
 
 Fique à vontade para me seguir no [LinkedIn](https://www.linkedin.com/in/matheus-cunha1/) ou me enviar um e-mail em [matheucunha0@gmail.com](mailto:matheucunha0@gmail.com).
 
