@@ -13,12 +13,9 @@ Olá, sou Matheus Cunha, um estudante de Ciência da Computação na UTFPR. Sou 
 Fique à vontade para me seguir no [LinkedIn](https://www.linkedin.com/in/matheus-cunha1/) ou me enviar um e-mail em [mathecunha0@gmail.com](mailto:mathecunha0@gmail.com).
 
 <code><img height="30" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="30" alt="AWS" src="https://customcodefactory.com/wp-content/uploads/2019/12/aws-app-icon.jpg"></code>
+<code><img height="30" alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
 <code><img height="30" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="30" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-<code><img height="30" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-<code><img height="30" alt="SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-<code><img height="30" alt="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
 <code><img height="30" alt="Figma" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format"></code>
+
 
 Visite meu perfil de projetos no [Figma](https://www.figma.com/@MatheusCunha).
