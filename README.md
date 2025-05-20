@@ -8,7 +8,9 @@ Estudante de Ciência da Computação na UTFPR/MD
 [![Gmail Badge](https://img.shields.io/badge/-mathecunha0@email.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathecunha0@gmail.com)](mailto:mathecunha0@gmail.com)
 
 
-Olá, sou Matheus Cunha, um estudante de Ciência da Computação na UTFPR. Sou apaixonado por tecnologia e inovação.
+Olá, sou Matheus Cunha, estudante de Ciência da Computação na UTFPR.
+Aspirante a analista de dados, tentando transformar dados em algo útil (ou pelo menos em algo que pareça).
+
 
 Fique à vontade para me seguir no [LinkedIn](https://www.linkedin.com/in/matheus-cunha1/) ou me enviar um e-mail em [mathecunha0@gmail.com](mailto:mathecunha0@gmail.com).
 
