@@ -1,4 +1,4 @@
-# Matheus Cunha ☕
+# Cunha ☕
 
 Analista de Dados virando Analytics Engineer, apaixonado pelo que faço e aqui é onde os projetos que me interessam ganham vida! 
 
