@@ -1,7 +1,6 @@
-# Cunha ☕
+# Matheus Cunha ☕
 
-Analista de Dados virando Analytics Engineer, apaixonado pelo que faço e aqui é onde os projetos que me interessam ganham vida! 
+Data Analyst at DataHub Big Data & Analytics. I enjoy querying, analyzing, and visualizing data, turning numbers into insights. This is where my projects come to life: a mix of analysis, engineering, and data science.
 
-Sinta-se à vontade para trocar uma ideia:
+Let's connect:
 [LinkedIn](https://www.linkedin.com/in/matheus-cunha1/) · mathecunha0@gmail.com
-
